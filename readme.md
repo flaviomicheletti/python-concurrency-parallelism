@@ -1,4 +1,4 @@
-![image](https://github.com/flaviomicheletti/python-concurrency-parallelism/assets/1257048/efeb7612-f880-4cc9-9d43-fdde74ac3f86)
+![image](https://github.com/flaviomicheletti/python-concurrency-parallelism/assets/1257048/a8265587-1974-4d2c-9d46-90a1731d195e)
 
 # Concurrency and Parallelism
 

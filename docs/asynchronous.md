@@ -45,8 +45,6 @@ multiple coroutines, and wait for multiple coroutines respectively.
 Here's a simple example that demonstrates the use of asynchronous programming 
 in Python: 
 
-
-
 ```python
 import asyncio
 

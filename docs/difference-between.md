@@ -10,6 +10,14 @@ own memory space, resources, and state.
 schedule and execute tasks. Threads share the same memory space and resources 
 of the process they belong to. 
 
+14. **Difference between a thread and a process:** 
+
+- A thread is a unit of execution within a process, allowing for concurrent 
+or parallel execution of tasks within the same memory space. 
+
+- A process is an instance of a program running on a computer, which has its 
+own memory space, resources, and state. 
+
 2. **Difference between a thread and a coroutine:** 
 
 - A thread is a concurrent execution unit managed by the operating system, 
@@ -27,6 +35,15 @@ steps that can be paused and resumed later.
 - A task, in the context of asynchronous programming, is an abstraction that 
 represents an asynchronous operation or a unit of work that can be scheduled 
 and executed. 
+
+17. **Difference between a task and a coroutine:** 
+
+- A task is a higher-level concept that represents an asynchronous operation 
+or a unit of work that can be scheduled and executed. 
+
+- A coroutine is a more general programming concept that represents a 
+sequence of steps that can be paused and resumed later, often used for 
+cooperative multitasking. 
 
 4. **Difference between a task and a future:** 
 
@@ -68,7 +85,6 @@ handling a particular event, such as a user input or a system notification.
 contexts, a listener may refer to a broader concept that includes multiple 
 event handlers for different events. 
 
-
 9. **Difference between a listener and an observer:** 
 
 - A listener and an observer are similar concepts, both referring to 
@@ -77,7 +93,6 @@ components that receive notifications or updates about changes or events.
 - In some cases, an observer pattern may involve multiple listeners, where 
 each listener is interested in a specific aspect of the observed object or 
 system. 
-
 
 10. **Difference between an observer and a subscriber:** 
 
@@ -113,14 +128,6 @@ for performing tasks or computations.
 - A thread is a lower-level execution unit managed by the operating system 
 that can be utilized by a worker or other entities. 
 
-14. **Difference between a thread and a process:** 
-
-- A thread is a unit of execution within a process, allowing for concurrent 
-or parallel execution of tasks within the same memory space. 
-
-- A process is an instance of a program running on a computer, which has its 
-own memory space, resources, and state. 
-
 15. **Difference between a process and a job:** 
 
 - In general computing terminology, the terms "process" and "job" are often 
@@ -137,15 +144,6 @@ unit of work or a specific job to be performed.
 
 - The distinction between them may vary depending on the context or the 
 system being referred to. 
-
-17. **Difference between a task and a coroutine:** 
-
-- A task is a higher-level concept that represents an asynchronous operation 
-or a unit of work that can be scheduled and executed. 
-
-- A coroutine is a more general programming concept that represents a 
-sequence of steps that can be paused and resumed later, often used for 
-cooperative multitasking. 
 
 18. **Difference between a kernel thread and a user thread:** 
 

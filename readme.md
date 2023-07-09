@@ -17,3 +17,8 @@ __venv:__
 
 - https://www.linkedin.com/feed/update/urn:li:activity:7006236032656363520/
 - https://medium.com/nerd-for-tech/concurrency-and-parallelism-in-python-a-brief-introduction-9fd19b8c6433
+- https://realpython.com/learning-paths/python-concurrency-parallel-programming/
+- https://www.educba.com/python-concurrency/
+- https://realpython.com/python-concurrency/
+- https://betterdatascience.com/concurrency-in-python/
+
